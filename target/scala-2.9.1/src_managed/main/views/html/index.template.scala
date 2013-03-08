@@ -47,7 +47,7 @@ Seq[Any](_display_(Seq[Any](/*2.2*/main("Ejemplo de Play! 2 + ExtJS 4" )/*2.39*/
 }
                 /*
                     -- GENERATED --
-                    DATE: Fri Mar 08 00:26:40 VET 2013
+                    DATE: Fri Mar 08 00:42:59 VET 2013
                     SOURCE: /home/urkh/playProjects/extjs/app/views/index.scala.html
                     HASH: 7006c97bc1b8c51606b7e36b08cb4047d5227ed6
                     MATRIX: 828->2|873->39|912->41|1020->119
