@@ -8,8 +8,4 @@ Tipica aplicacion CRUD usando el gridRowEditor y el formPanel de ExtJS 4 con el 
 Live-demo:
 =====================================
 
-<<<<<<< HEAD
 https://extjsplay-urkh.rhcloud.com/
-=======
-https://extjsplay-urkh.rhcloud.com/
->>>>>>> github

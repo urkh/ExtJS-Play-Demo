@@ -1,7 +1,12 @@
 logs
 project/project
 project/target
-#target #commented for deploying to openshift
+target
+test
 tmp
-.history
 dist
+.history
+.settings
+.target
+.project
+.classpath
